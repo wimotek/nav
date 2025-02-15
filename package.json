@@ -1,6 +1,6 @@
 {
   "name": "nav",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "author": "xiejiahe",
   "homepage": "https://github.com/xjh22222228/nav",
   "scripts": {
@@ -38,7 +38,7 @@
     "localforage": "^1.10.0",
     "lz-string": "^1.5.0",
     "mitt": "^3.0.1",
-    "ng-zorro-antd": "^18.2.1",
+    "ng-zorro-antd": "^19.0.2",
     "nodemailer": "^6.9.16",
     "nprogress": "^0.2.0",
     "postcss": "^8.4.49",
